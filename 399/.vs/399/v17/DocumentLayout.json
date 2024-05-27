@@ -3,8 +3,8 @@
   "WorkspaceRootPath": "D:\\leetcode\\leetcode-competition\\399\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{49622BAC-B8A6-40DB-81A6-802DF15D8E9B}|399\\399.vcxproj|D:\\leetcode\\leetcode-competition\\399\\399\\Q1.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
-      "RelativeMoniker": "D:0:0:{49622BAC-B8A6-40DB-81A6-802DF15D8E9B}|399\\399.vcxproj|solutionrelative:399\\Q1.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+      "AbsoluteMoniker": "D:0:0:{49622BAC-B8A6-40DB-81A6-802DF15D8E9B}|399\\399.vcxproj|D:\\leetcode\\leetcode-competition\\399\\399\\Q3.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{49622BAC-B8A6-40DB-81A6-802DF15D8E9B}|399\\399.vcxproj|solutionrelative:399\\Q3.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     }
   ],
   "DocumentGroupContainers": [
@@ -14,19 +14,23 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 0,
+          "SelectedChildIndex": 1,
           "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
             {
               "$type": "Document",
               "DocumentIndex": 0,
-              "Title": "Q1.cpp",
-              "DocumentMoniker": "D:\\leetcode\\leetcode-competition\\399\\399\\Q1.cpp",
-              "RelativeDocumentMoniker": "399\\Q1.cpp",
-              "ToolTip": "D:\\leetcode\\leetcode-competition\\399\\399\\Q1.cpp",
-              "RelativeToolTip": "399\\Q1.cpp",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAEAAAAAAAAA",
+              "Title": "Q3.cpp",
+              "DocumentMoniker": "D:\\leetcode\\leetcode-competition\\399\\399\\Q3.cpp",
+              "RelativeDocumentMoniker": "399\\Q3.cpp",
+              "ToolTip": "D:\\leetcode\\leetcode-competition\\399\\399\\Q3.cpp",
+              "RelativeToolTip": "399\\Q3.cpp",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
-              "WhenOpened": "2024-05-26T08:38:06.434Z",
+              "WhenOpened": "2024-05-27T04:52:56.487Z",
               "EditorCaption": ""
             }
           ]
